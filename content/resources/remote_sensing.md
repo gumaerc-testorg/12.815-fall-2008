@@ -5,8 +5,13 @@ description: Lecture notes on remote sensing, scattered sunlight (observations f
   properties, thermal emission, weighting functions, temperature and water vapor retrieval,
   limb scanning, application of MODTRAN to remote sensing, and miscellaneous topics
   and summary (microwave remote sensing, active remote sensing - LIDAR and RADAR).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-815-atmospheric-radiation-fall-2008/6ab3fdafb938649ca5a6aac43a52b75d_remote_sensing.pdf
+file: /media/courses/12-815-atmospheric-radiation-fall-2008/6ab3fdafb938649ca5a6aac43a52b75d_remote_sensing.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Remote Sensing
 uid: 6ab3fdaf-b938-649c-a5a6-aac43a52b75d

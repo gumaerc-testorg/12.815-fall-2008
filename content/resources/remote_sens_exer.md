@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d96c2c78-aa10-b090-6938-b09cc955af71
 resourcetype: Document
 title: Remote Sensing Exercise
 uid: 1d316217-674f-f4c9-4c17-7c0b66f4cfa3

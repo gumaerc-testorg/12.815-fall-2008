@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: afeba595-7578-fa57-071d-89c2efc4369c
 resourcetype: Document
 title: Scattering of Radiation by Molecules and Particles
 uid: 7e76b4f5-6814-4812-9873-6de9eb9d2c0f

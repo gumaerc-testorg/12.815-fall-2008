@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d96c2c78-aa10-b090-6938-b09cc955af71
 resourcetype: Document
 title: HITRAN Exercise
 uid: bf0441f8-f347-0682-74ce-e882f988f495

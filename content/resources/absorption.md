@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: afeba595-7578-fa57-071d-89c2efc4369c
 resourcetype: Document
 title: Molecular Spectroscopy
 uid: 8202c232-77e4-5e50-8266-d8d527aa139a

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d96c2c78-aa10-b090-6938-b09cc955af71
 resourcetype: Document
 title: Multiple Scattering Exercise (Discrete Ordinates)
 uid: 9ef2e9e6-7a3c-ab40-a8ca-03ec9b92e793

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: afeba595-7578-fa57-071d-89c2efc4369c
 resourcetype: Document
 title: Modeling Atmospheric Transmission and Emission
 uid: cca31e99-57d4-0ba7-0c16-4216c44bc309

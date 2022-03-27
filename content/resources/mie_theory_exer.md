@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d96c2c78-aa10-b090-6938-b09cc955af71
 resourcetype: Document
 title: "Mie Theory \u2013 Computer Exercise"
 uid: 53b017a8-fc58-a5dc-db67-eebc7fdb9620

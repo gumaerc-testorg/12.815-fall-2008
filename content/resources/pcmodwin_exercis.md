@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d96c2c78-aa10-b090-6938-b09cc955af71
 resourcetype: Document
 title: PCModWin Exercise
 uid: ee8c42bd-f1d9-2cc0-4c64-db4892ce697c

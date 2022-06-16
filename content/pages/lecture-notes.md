@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with information
+  on topics covered in each lecture session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -38,7 +40,7 @@ NOTES
 Course overview and role of radiation in climate system (S and M)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/overview))
+({{% resource_link 8c8df1d1-513c-3e8b-2e5e-644744599bec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -61,7 +63,7 @@ Course overview and role of radiation in climate system (S and M)
 Physics of radiation (S)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/thermo))
+({{% resource_link 73f7b629-cb35-a9ce-b768-d57877a102b3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -83,7 +85,7 @@ Physics of radiation (S)
 Molecular spectroscopy (S)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/absorption))
+({{% resource_link 8202c232-77e4-5e50-8266-d8d527aa139a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -106,7 +108,7 @@ Molecular spectroscopy (S)
 Equation of radiative transfer (M)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/radiative_transf))
+({{% resource_link c397bb57-973e-36cc-3f5e-55091a1449b6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -131,7 +133,7 @@ Equation of radiative transfer (M)
 Modeling atmospheric transmission and emission (M)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/atmos_trans_emis))
+({{% resource_link cca31e99-57d4-0ba7-0c16-4216c44bc309 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -166,7 +168,7 @@ Multiple scattering (M)
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scattering))
+({{% resource_link 7e76b4f5-6814-4812-9873-6de9eb9d2c0f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -193,7 +195,7 @@ Multiple scattering (M)
 Remote sensing (M)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/remote_sensing))
+({{% resource_link 6ab3fdaf-b938-649c-a5a6-aac43a52b75d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 

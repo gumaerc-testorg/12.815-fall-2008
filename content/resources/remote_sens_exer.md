@@ -5,6 +5,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2008/1d316217674ff4c94c177c0b66
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Remote Sensing Exercise
 uid: 1d316217-674f-f4c9-4c17-7c0b66f4cfa3
 ---
 Assignment on remote sensing of atmospheric radiation.
-

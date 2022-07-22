@@ -6,6 +6,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2008/ee8c42bdf1d92cc04c64db4892
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PCModWin Exercise
 uid: ee8c42bd-f1d9-2cc0-4c64-db4892ce697c
 ---
 Assignment on using PCModWin, a low-spectral-resolution, radiative transfer program.
-

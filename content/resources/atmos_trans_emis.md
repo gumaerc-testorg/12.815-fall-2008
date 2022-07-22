@@ -7,6 +7,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2008/cca31e9957d40ba70c164216c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Modeling Atmospheric Transmission and Emission
 uid: cca31e99-57d4-0ba7-0c16-4216c44bc309
 ---
 Lecture notes on modeling atmospheric transmission and emission, the HITRAN data base and applications, band models (weak line, strong line, random, regular, k Distribution), and MODTRAN.
-

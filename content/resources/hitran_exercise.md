@@ -4,6 +4,7 @@ description: 'Assignment on using the HITRAN database. Uses two parts of the JHA
   program: the Select option, which finds and lists line data, and the Plot option,
   which represents the line strengths graphically.'
 file: /courses/12-815-atmospheric-radiation-fall-2008/bf0441f8f347068274cee882f988f495_hitran_exercise.pdf
+file_size: 105421
 file_type: application/pdf
 learning_resource_types:
 - Assignments

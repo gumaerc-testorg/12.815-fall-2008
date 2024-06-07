@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment on using PCModWin, a low-spectral-resolution, radiative transfer
   program.
 file: /courses/12-815-atmospheric-radiation-fall-2008/ee8c42bdf1d92cc04c64db4892ce697c_pcmodwin_exercis.pdf
+file_size: 109909
 file_type: application/pdf
 learning_resource_types:
 - Assignments

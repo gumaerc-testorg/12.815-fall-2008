@@ -4,6 +4,7 @@ description: "Assignment on radiative flux, Eddington\u2019s equation (2-stream 
   \ Grey approximation to absorption coefficient, radiative equilibrium, and discontinuity\
   \ in surface boundary conditions."
 file: /courses/12-815-atmospheric-radiation-fall-2008/10eb8d96452d6078331a16e0a48ca47e_radia_equil_exer.pdf
+file_size: 80451
 file_type: application/pdf
 learning_resource_types:
 - Assignments

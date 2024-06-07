@@ -5,6 +5,7 @@ description: Assignment on using the Mie scattering program. The Mie scattering 
   g. The program outputs columns of numbers that can be plotted using standard plotting
   routines.
 file: /courses/12-815-atmospheric-radiation-fall-2008/53b017a8fc58a5dcdb67eebc7fdb9620_mie_theory_exer.pdf
+file_size: 104837
 file_type: application/pdf
 learning_resource_types:
 - Assignments

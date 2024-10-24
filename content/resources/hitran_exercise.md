@@ -3,7 +3,7 @@ content_type: resource
 description: 'Assignment on using the HITRAN database. Uses two parts of the JHAWKS
   program: the Select option, which finds and lists line data, and the Plot option,
   which represents the line strengths graphically.'
-file: /courses/12-815-atmospheric-radiation-fall-2008/bf0441f8f347068274cee882f988f495_hitran_exercise.pdf
+file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2008/bf0441f8f347068274cee882f988f495_hitran_exercise.pdf
 file_size: 105421
 file_type: application/pdf
 learning_resource_types:

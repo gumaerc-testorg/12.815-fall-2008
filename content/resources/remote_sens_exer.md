@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on remote sensing of atmospheric radiation.
-file: /courses/12-815-atmospheric-radiation-fall-2008/1d316217674ff4c94c177c0b66f4cfa3_remote_sens_exer.pdf
+file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2008/1d316217674ff4c94c177c0b66f4cfa3_remote_sens_exer.pdf
 file_size: 96936
 file_type: application/pdf
 learning_resource_types:

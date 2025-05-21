@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on modeling atmospheric transmission and emission, the
   HITRAN data base and applications, band models (weak line, strong line, random,
   regular, k Distribution), and MODTRAN.
-file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2008/cca31e9957d40ba70c164216c44bc309_atmos_trans_emis.pdf
+file: /courses/12-815-atmospheric-radiation-fall-2008/cca31e9957d40ba70c164216c44bc309_atmos_trans_emis.pdf
 file_size: 349936
 file_type: application/pdf
 learning_resource_types:

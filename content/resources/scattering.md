@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on scattering of radiation by molecules and particles,
   single scattering, size distributions, Mie scattering, discrete ordinates, and multiple
   scattering.
-file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2008/7e76b4f56814481298736de9eb9d2c0f_scattering.pdf
+file: /courses/12-815-atmospheric-radiation-fall-2008/7e76b4f56814481298736de9eb9d2c0f_scattering.pdf
 file_size: 251109
 file_type: application/pdf
 learning_resource_types:
